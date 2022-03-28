@@ -19,11 +19,13 @@ The new analysis is conducted to determine the number of retiring employees per 
 ## Summary
 To give more insight into the upcoming "silver tsunami", we need to consider the following two questions.
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
 The study analyzed that there would be 72,458 employees retiring soon, within seven titles as listed below. We did additional queries to count the mentor eligible people and to combine the mentor count table and retiring count. Employees need to be filled in for those seven titles. Additionally, there are two managers who would leave soon but with no eligible people for the mentorship program.
 
 ![T1_retiring_titles](https://github.com/hankai26/Pewlett-Hackard-Analysis/blob/main/Data/F1_retiring_mentor_count.png)
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 Now we found 72,458 retiring employees. While the number of eligible employees for mentorship is only 1,549, based the current criteria with 
 those who were born between January 1, 1965 and December 31, 1965. The ratio of qualified employees to retiring people is about 1:47. That means there would probably be inadequate retirement-ready employees to mentor all new employees. Especially no employee's eligible for manager-mentorship positions. It would be important to find experienced people outside for the manager position.
 
